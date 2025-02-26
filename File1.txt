@@ -4,3 +4,6 @@
 Add line
 сччя
 czxzz
+{"key":"value"} 
+ccxzzz
+
